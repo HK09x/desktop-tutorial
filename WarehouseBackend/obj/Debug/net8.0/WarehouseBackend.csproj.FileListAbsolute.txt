@@ -1,0 +1,8 @@
+/workspaces/desktop-tutorial/WarehouseBackend/obj/Debug/net8.0/WarehouseBackend.csproj.AssemblyReference.cache
+/workspaces/desktop-tutorial/WarehouseBackend/obj/Debug/net8.0/WarehouseBackend.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/desktop-tutorial/WarehouseBackend/obj/Debug/net8.0/WarehouseBackend.AssemblyInfoInputs.cache
+/workspaces/desktop-tutorial/WarehouseBackend/obj/Debug/net8.0/WarehouseBackend.AssemblyInfo.cs
+/workspaces/desktop-tutorial/WarehouseBackend/obj/Debug/net8.0/WarehouseBackend.csproj.CoreCompileInputs.cache
+/workspaces/desktop-tutorial/WarehouseBackend/obj/Debug/net8.0/WarehouseBackend.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/desktop-tutorial/WarehouseBackend/obj/Debug/net8.0/WarehouseBackend.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/desktop-tutorial/WarehouseBackend/obj/Debug/net8.0/WarehouseBackend.sourcelink.json
