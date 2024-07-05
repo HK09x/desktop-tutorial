@@ -1,0 +1,15 @@
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/workspaces/desktop-tutorial/ข้อ2/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
