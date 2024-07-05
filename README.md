@@ -10,3 +10,10 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 
  # รัน Frontend
  npm start
+
+
+ # ข้อ2
+คอมไพล์โปรเจกต์โดยใช้คำสั่งนี้: 
+ dotnet build
+ 
+ รันโปรแกรม:ใช้คำสั่งนี้: dotnet run
